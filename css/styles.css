@@ -1,0 +1,28 @@
+body {
+  background-color: lightcyan;
+}
+
+hr {
+  border-style: none;
+  border-top: 1px solid grey;
+  border-bottom: 1px solid grey;
+  height: 5px;
+}
+
+h3 {
+  color: teal;
+  font-style: italic;
+}
+
+h1{
+  color: navy;
+}
+
+.photo{
+border-radius: 100%;
+
+}
+
+#heading{
+  font-size: 50px;
+}
